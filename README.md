@@ -125,7 +125,7 @@ Student A is a chemistry major on the pre-med track. He regularly attends scienc
 
 #### Student B — Emily
 
-Emily is a humanities major who uses notes, assigned readings, and posted slides to review lectures and prepare written assignments. When she misses class, she relies on those materials and classmates' notes to learn what was discussed. She particularly wants to understand the examples and connections the instructor explained aloud.
+Emily is a student who uses notes, assigned readings, and posted slides to review lectures and prepare written assignments. When she misses class, she relies on those materials and classmates' notes to learn what was discussed. She particularly wants to understand the examples and connections the instructor explained aloud.
 
 **Goals and needs**
 
